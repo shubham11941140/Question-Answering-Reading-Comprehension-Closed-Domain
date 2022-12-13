@@ -1,0 +1,24 @@
+Q1: What causes precipitation to fall?
+
+Passage:
+Sent1: In meteorology, precipitation is any product of the condensation of atmospheric water vapor.
+Sent2: Precipitation falls under the effect of gravity. 
+
+Ans: [Gravity]
+
+Q2: What group in the Periodic table oxygen belongs?
+
+Passage:
+Sent1: Oxygen is a chemical element with symbol O and atomic number 8.
+Sent2: It is a member of the chalcogen group on the periodic table.
+
+Ans: [chalcogen]
+
+Q3: Who was the coach of Sachin Tendulakar?
+
+Passage:
+Sent1: Ramakant Vitthal Achrekar was a famous coach. 
+Sent2: He was most famous for coaching young cricketers at Shivaji Park, most notably Sachin Tendulkar. 
+Sent3: He had also been a selector for the Mumbai cricket team.
+
+Ans: [Ramakant Vitthal Achrekar, Vasu Paranjape, John Wright]
